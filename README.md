@@ -1,1 +1,2 @@
-# Clase-36-Carrera-de-autos-multijugador
+# C36-Carreras de autos 
+Actividad de la maestra 1
